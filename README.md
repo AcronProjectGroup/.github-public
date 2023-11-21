@@ -1,4 +1,4 @@
-# .github-public
+# README
 
 <img src="https://github.com/sinalalebakhsh/sinalalebakhsh/blob/main/0-2--cover-YouTube.jpg" hight="10%" >
 
